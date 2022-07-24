@@ -3,9 +3,17 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# cacheUrl: https://bluecommunitysustainability.github.io/feeds/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://jobs.bluecommunity.info/feed/5961
+  - href: https://jobs.bluecommunity.info/feed/6551
+  - href: https://jobs.bluecommunity.info/feed/6566
+  - href: https://jobs.bluecommunity.info/feed/6549
+  - href: https://jobs.bluecommunity.info/feed/6583
+  - href: https://jobs.bluecommunity.info/feed/5972
+  - href: https://videos.bluecommunity.info/feed/category/91
+  - href: https://videos.bluecommunity.info/feed/category/83
+  - href: https://videos.bluecommunity.info/feed/category/84
+  - href: https://videos.bluecommunity.info/feed/category/85
+  - href: https://thebluecommunity.blogspot.com/feeds/posts/default?alt=rss
