@@ -16,4 +16,7 @@ sources:
   - href: https://videos.bluecommunity.info/feed/category/83
   - href: https://videos.bluecommunity.info/feed/category/84
   - href: https://videos.bluecommunity.info/feed/category/85
-  - href: https://thebluecommunity.blogspot.com/feeds/posts/default?alt=rss
+  - href: https://bluecommunity.hellobox.co/feed
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "blue community :: sustainability feeds"
