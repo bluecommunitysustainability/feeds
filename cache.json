@@ -5,12 +5,6 @@
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": []
-    },
-    {
-      "title": "🌿Green Jobs Global - Latest",
-      "feedUrl": "https://jobs.bluecommunity.info/feed/5972",
-      "siteUrl": "https://jobs.bluecommunity.info/feed/5972",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
