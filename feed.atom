@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T02:45:39.443Z</id>
+    <id>urn:2026-04-24T02:46:03.132Z</id>
     <title>blue community :: sustainability feeds</title>
-    <updated>2026-04-23T02:45:39.443Z</updated>
+    <updated>2026-04-24T02:46:03.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[¿Quién decidió que la ciencia no era para ellas?]]></title>
+        <id>https://jobs.bluecommunity.info/7610808/quien-decidio-que-la-ciencia-no-era-para-ellas</id>
+        <link href="https://jobs.bluecommunity.info/7610808/quien-decidio-que-la-ciencia-no-era-para-ellas"/>
+        <updated>2026-04-24T00:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Imagina despertar en un mundo sin wifi, sin vacunas, sin test de ADN o sin órbitas trazadas hacia la luna. Un mundo donde el código informático nunca nació porque Ada Lovelace jamás escribió la primera línea. Donde la estructura del ADN sigue siendo un enigma porque Rosalind Franklin nunca fotografió su doble hélice. Donde nadie calculó con precisión el viaje de los astronautas porque Katherine Johnson no rompió barreras en la NASA. Donde no existen pruebas PCR ni fecundación in vitro, porque Margarita Salas no desarrolló su polimerasa revolucionaria ni Anna Veiga ayudó a nacer al primer bebé probeta de España.Seguir leyendo]]></summary>
+        <author>
+            <name>🌿Green Jobs Global - Environmental Jobs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sustainability Designer]]></title>
         <id>https://jobs.bluecommunity.info/6934682/sustainability-designer</id>
@@ -1105,16 +1115,6 @@ Los Green Skills Award reconocen cada año a los proyectos que mejor preparan a 
         <link href="https://jobs.bluecommunity.info/7613569/del-relato-a-las-metricas-asi-se-disena-hoy-un-proyecto-periodistico-digital-con-vocacion-de-futuro"/>
         <updated>2026-04-13T15:41:44.000Z</updated>
         <summary type="html"><![CDATA[A los 65 años uno no suele plantearse empezar de nuevo, pero Mauricio Merino sí lo hizo. Tras más de tres décadas dedicado a la universidad, con una columna semanal en la prensa mexicana y una presencia habitual en el debate público, asumió una verdad incómoda: que el terreno donde hoy se libra buena parte de la conversación democrática —el digital— le resultaba ajeno. “Mi formación pertenecía a otra época”, reconoce. Y cuando, junto a un grupo de colegas, decidió lanzar una revista digital, El diluvio, para debatir y defender ideas en ese nuevo espacio, se dio cuenta de que no sabía cómo moverse ahí. “No entendía apenas nada del lenguaje digital ni cómo competir en ese medio electrónico, que es, a la vez, evasivo e invasivo”, admite.Seguir leyendo]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Environmental Jobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¿Quién decidió que la ciencia no era para ellas?]]></title>
-        <id>https://jobs.bluecommunity.info/7610808/quien-decidio-que-la-ciencia-no-era-para-ellas</id>
-        <link href="https://jobs.bluecommunity.info/7610808/quien-decidio-que-la-ciencia-no-era-para-ellas"/>
-        <updated>2026-04-13T14:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Imagina despertar en un mundo sin wifi, sin vacunas, sin test de ADN o sin órbitas trazadas hacia la luna. Un mundo donde el código informático nunca nació porque Ada Lovelace jamás escribió la primera línea. Donde la estructura del ADN sigue siendo un enigma porque Rosalind Franklin nunca fotografió su doble hélice. Donde nadie calculó con precisión el viaje de los astronautas porque Katherine Johnson no rompió barreras en la NASA. Donde no existen pruebas PCR ni fecundación in vitro, porque Margarita Salas no desarrolló su polimerasa revolucionaria ni Anna Veiga ayudó a nacer al primer bebé probeta de España.Seguir leyendo]]></summary>
         <author>
             <name>🌿Green Jobs Global - Environmental Jobs</name>
         </author>
