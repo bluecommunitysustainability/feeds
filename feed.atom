@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-02T03:41:30.731Z</id>
+    <id>urn:2026-07-03T03:22:33.799Z</id>
     <title>blue community :: sustainability feeds</title>
-    <updated>2026-07-02T03:41:30.731Z</updated>
+    <updated>2026-07-03T03:22:33.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[La aldea donde se juega, aprende y evalúa: una historia de educación y emprendimiento en Valencia]]></title>
+        <id>https://jobs.bluecommunity.info/7501522/la-aldea-donde-se-juega-aprende-y-evalua-una-historia-de-educacion-y-emprendimiento-en-valencia</id>
+        <link href="https://jobs.bluecommunity.info/7501522/la-aldea-donde-se-juega-aprende-y-evalua-una-historia-de-educacion-y-emprendimiento-en-valencia"/>
+        <updated>2026-07-02T13:39:52.000Z</updated>
+        <summary type="html"><![CDATA[En un aula de un centro público del barrio de Nazaret, en Valencia, un grupo de alumnos construye aldeas, gestiona recursos energéticos y toma decisiones sostenibles mientras compite amistosamente con sus compañeros. A simple vista, parece que están jugando. Pero detrás de esa mecánica lúdica se encuentra Eutopía, una sofisticada plataforma de evaluación por competencias desarrollada por la startup Zynergic Education. Una herramienta que recoge más de 1.000 datos por alumno y hora de uso, y los traduce en informes automáticos adaptados a cada comunidad autónoma, aliviando la sobrecarga de trabajo docente y respondiendo de forma directa a una de las grandes exigencias de la Lomloe: evaluar a los estudiantes no solo por lo que memorizan, sino por lo que saben hacer.Seguir leyendo]]></summary>
+        <author>
+            <name>🌿Green Jobs Global - Environmental Jobs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Driver, G-2 Sao Tome & Principe (temporary Appointment, 6 months)]]></title>
         <id>https://jobs.bluecommunity.info/6934009/driver-g-2-sao-tome-amp-principe-temporary-appointment-6-months</id>
@@ -902,16 +912,6 @@ Los Green Skills Award reconocen cada año a los proyectos que mejor preparan a 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Associate Developer - Renewable Energy]]></title>
-        <id>https://jobs.bluecommunity.info/6933034/senior-associate-developer-renewable-energy</id>
-        <link href="https://jobs.bluecommunity.info/6933034/senior-associate-developer-renewable-energy"/>
-        <updated>2026-06-10T12:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Michael Page - Dallas, TX - The Senior Associate Developer - Renewable Energy will be responsible for developing utility-scale solar, wind and BESS projects across the US. This role is remote with travel to your projects.   The Senior Associate Developer - Renewable Energy will be responsible for:  Site control and due diligence  Managing environmental studies and permitting timelines  Collaborate with cross-functional teams, internal and external stakeholders, and subject matter experts to ensure seamless project..., protected veterans and all other qualified applicants.   Gain exposure to utility-scale Wind, Solar and BESS projects|Have the ability to work remotely   The Senior Associate Developer - Renewable Energy will have  2-4 years of experience in project development within the renewable energy sector  Experience in developing wind projects  Experience in site lease or purchase agreements  Understanding of interconnection process  Experience in permitting at the local, state and federal level  The... - Permanent - Full-time]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Renewable Energy Jobs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Work From Home - Hotel Reservationist]]></title>
         <id>https://jobs.bluecommunity.info/6934038/work-from-home-hotel-reservationist</id>
         <link href="https://jobs.bluecommunity.info/6934038/work-from-home-hotel-reservationist"/>
@@ -1262,16 +1262,6 @@ Los Green Skills Award reconocen cada año a los proyectos que mejor preparan a 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La aldea donde se juega, aprende y evalúa: una historia de educación y emprendimiento en Valencia]]></title>
-        <id>https://jobs.bluecommunity.info/7501522/la-aldea-donde-se-juega-aprende-y-evalua-una-historia-de-educacion-y-emprendimiento-en-valencia</id>
-        <link href="https://jobs.bluecommunity.info/7501522/la-aldea-donde-se-juega-aprende-y-evalua-una-historia-de-educacion-y-emprendimiento-en-valencia"/>
-        <updated>2026-06-04T03:23:12.000Z</updated>
-        <summary type="html"><![CDATA[En un aula de un centro público del barrio de Nazaret, en Valencia, un grupo de alumnos construye aldeas, gestiona recursos energéticos y toma decisiones sostenibles mientras compite amistosamente con sus compañeros. A simple vista, parece que están jugando. Pero detrás de esa mecánica lúdica se encuentra Eutopía, una sofisticada plataforma de evaluación por competencias desarrollada por la startup Zynergic Education. Una herramienta que recoge más de 1.000 datos por alumno y hora de uso, y los traduce en informes automáticos adaptados a cada comunidad autónoma, aliviando la sobrecarga de trabajo docente y respondiendo de forma directa a una de las grandes exigencias de la Lomloe: evaluar a los estudiantes no solo por lo que memorizan, sino por lo que saben hacer.Seguir leyendo]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Environmental Jobs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Educación, innovación y emprendimiento con sello femenino]]></title>
         <id>https://jobs.bluecommunity.info/7511655/educacion-innovacion-y-emprendimiento-con-sello-femenino</id>
         <link href="https://jobs.bluecommunity.info/7511655/educacion-innovacion-y-emprendimiento-con-sello-femenino"/>
@@ -1459,36 +1449,6 @@ Los Green Skills Award reconocen cada año a los proyectos que mejor preparan a 
         <summary type="html"><![CDATA[Climate17 - Bournemouth -  and colleagues.  A strong work ethic.  Positive attitude.  Cultural fit (you must share our values).  Renewable energy or sustainability experience desirable.    What We Offer   Career  Structured career development plan - we work with you to help define and realise your career goals.  Excellent opportunities for growth and progression - we are an ambitious, high-growth business that promotes from within.  Progression is meritocratic and based on a combination of results (activity metrics & billings...We are a growing, multi-lingual team, who operate from offices in the UK & Spain, supporting clients globally.   We provide specialist talent acquisition and market insight services to organisations seeking to reduce their environmental footprint and those working towards the decarbonisation of the energy sector.   We work in partnership with our clients, providing the right people who allow them to succeed and grow.   Our Sustainability Practice   Our Sustainability practice works with world... - Permanent - Full-time]]></summary>
         <author>
             <name>🌿Green Jobs Global - Cultural Sustainability Jobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Personal Travel Assistant]]></title>
-        <id>https://jobs.bluecommunity.info/6934045/remote-personal-travel-assistant</id>
-        <link href="https://jobs.bluecommunity.info/6934045/remote-personal-travel-assistant"/>
-        <updated>2026-06-03T12:44:40.000Z</updated>
-        <summary type="html"><![CDATA[EcoWay Voyagers - Orlando, FL -  Work Environment: Join a supportive team of professionals who are passionate about sustainable travel... tourism and environmental conservation by facilitating eco-friendly travel arrangements and supporting...]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Sustainable Tourism Jobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Appointment Setter]]></title>
-        <id>https://jobs.bluecommunity.info/6932060/virtual-appointment-setter</id>
-        <link href="https://jobs.bluecommunity.info/6932060/virtual-appointment-setter"/>
-        <updated>2026-06-03T08:09:29.000Z</updated>
-        <summary type="html"><![CDATA[EcoWay Voyagers - Phoenix, AZ -  appointments.  Passion for Sustainability: A genuine interest in sustainable tourism practices and a commitment... our sustainable travel offerings through various channels, including online research, social media, and networking...]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Sustainable Tourism Jobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Department Head, Health and Exercise Studies]]></title>
-        <id>https://jobs.bluecommunity.info/6934041/department-head-health-and-exercise-studies</id>
-        <link href="https://jobs.bluecommunity.info/6934041/department-head-health-and-exercise-studies"/>
-        <updated>2026-06-03T07:51:44.000Z</updated>
-        <summary type="html"><![CDATA[North Carolina State University - Raleigh, NC -  of courses, faculty, and course support.  The department head is responsible for the sustainable financial..., and tourism management, etc.)  Eligible for appointment with tenure as associate or full professor in...]]></summary>
-        <author>
-            <name>🌿Green Jobs Global - Sustainable Tourism Jobs</name>
         </author>
     </entry>
 </feed>
